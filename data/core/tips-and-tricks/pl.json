@@ -1,0 +1,41 @@
+
+[
+  {
+    "title": "Przenoszenie stosu",
+    "image": "stack-transfer.png",
+    "text": "Użycie \"__CONTROL__stack-transfer__\" przemieści cały stos. Ponadto przedmioty przenoszone są inteligentnie. Na przykład użycie transferu stosu na __ITEM__iron-axe__ w ekwipunku przeniesie go do pola narzędzi." },
+  {
+    "title": "Przenoszenie ekwipunku",
+    "image": "inventory-transfer.png",
+    "text": "Użycie \"__CONTROL__inventory-transfer__\" przeniesie wszystkie stosy danego typu pomiędzy inwentarzami. To może być użyte m. in. w celu przeniesienia wszystkich pasów transmisyjnych z __ENTITY__wooden-chest__ do głównego ekwipunku."
+  },
+  {
+    "title": "Szybkie przenoszenie przedmiotów",
+    "image": "fast-entity-transfer.png",
+    "text": "Użycie \"__CONTROL__fast-entity-transfer__\" pozwala przenieść wybrane przedmioty bez otwierania interfejsu. Jeśli gracz ma puste ręce to transfer nastąki w kierunku jego ekwipunku i na odwrót jeśli ma on pełny ekwipunek. To może być przydatne we wczesnej fazie gry do zarządzania __ENTITY__stone-furnace__, __ENTITY__burner-mining-drill__, itp."
+  },
+  {
+    "title": "Pasek szybkiego dostępu",
+    "image": "quickbar.png",
+    "text": "Każde pole w pasku szybkiego dostępu służy jako skrót do wybierania przedmiotu w nim się znajdującego. Jeśli już masz aktywny inny przedmiot, to zostanie on umieszczony spowrotem w miejscu, z którego go pobrałeś."
+  },
+  {
+    "title": "Uwolnienie kursora",
+    "text": "Użycie \"__CONTROL__clean-cursor__\" przeniesie stos przedmiotów z kursora do twojego ekwipunku/paska szybkiego dostępu."
+  },
+  {
+    "title": "Dodatkowe informacje",
+    "image": "show-info.png",
+    "text": "Użycie \"__CONTROL__show-info__\" wyświetli dodatkowe informacje."
+  },
+  {
+    "title": "Budowanie w biegu",
+    "image": "building-while-running.png",
+    "text": "Najszybszy sposób by zbudować dużo obiektów w linii, takich jak pasy transportowe, __ENTITY__pipe__ czy podajniki to przytrzymanie \"__CONTROL__build__\" na miejscu gdzie chcesz je umieścić i pobiegnięcie się w wybranym kierunku."
+  },
+  {
+    "title": "Filtry",
+    "image": "filter.png",
+    "text": "Użycie \"__CONTROL__set-filter__ na pasku szybkiego wybierania pozwoli Ci ustawić na co dane pole ma zostać zarezerwowane. Żaden inny przedmiot nie może zostać umieszczony w danym polu a przedmioty wybranego typu będą zawsze umieszczane w tym polu."
+  }
+]
